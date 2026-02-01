@@ -1,1 +1,19 @@
 # AI-CHATBOT-WITH-NLP
+
+COMPANY:CODETECH IT SOLUTIONS
+
+NAME:AADHONI MOUNIKA
+
+INTERN ID:CTIS2922
+
+DOMAIN:PYTHON PROGRAMMING
+
+DURATION:4 WEEKS
+
+MENTOR:NEELA SANTHOSH
+
+*AI chatbot using NLP techniques for natural language understanding and conversation automation*
+
+
+
+
