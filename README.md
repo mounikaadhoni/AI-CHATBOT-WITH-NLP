@@ -12,7 +12,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-DESCRIPTION:AI chatbot with nlp
+DESCRIPTION:AI chatbot with nlp -Codtech It Solutions Pvt
 
 Overview
 
