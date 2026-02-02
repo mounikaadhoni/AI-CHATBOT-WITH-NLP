@@ -14,8 +14,6 @@ MENTOR:NEELA SANTHOSH
 
 DESCRIPTION:AI chatbot with nlp
 
-AI Chatbot with NLP – Codetech IT Solutions Pvt Ltd
-
 Overview
 
 The AI Chatbot with NLP project is a sophisticated Python-based application designed to simulate human-like conversations using Natural Language Processing (NLP) techniques. This project focuses on building an 
